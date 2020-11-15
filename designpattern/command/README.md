@@ -9,8 +9,10 @@ In this example:
     - There are four commands one can use: On, Off, Increase Volume, Decrease Volume. 
     - Each command is associated with a device (which is TV in this case)
 
+
   - Device:
     - TV provides those commands with concrete implementations
+  
   
   - Button:
     - Each button is associated with a command
